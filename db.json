@@ -1,7 +1,5 @@
 {
-    "body": {
-        "Header": {
-            "ResponseHeader": {
+   {
       
                               "customer_id": "CUS_001101217288_00000001",
                                "oda_account": "ODA_123123123_081597",
@@ -19,45 +17,5 @@
                                 "subdistrict": 1213,
                                 "rt": 1,
                                 "rw": 2
-                              },
-                "ResponseMessageInfo": {
-                    "BankId": "01",
-                    "TimeZone": "GMT+05:30",
-                    "MessageDateTime": "2020-11-19T13:18:27.703"
-                },
-                "UBUSTransaction": {
-                    "Id": "",
-                    "Status": ""
-                },
-                "HostTransaction": {
-                    "Id": "",
-                    "Status": "SUCCESS"
-                },
-                "HostParentTransaction": {
-                    "Id": "",
-                    "Status": ""
-                },
-                "CustomInfo": ""
-            }
-        },
-        "Body": {
-            "executeFinacleScriptResponse": {
-                "ExecuteFinacleScriptOutputVO": "\n",
-                "executeFinacleScript_CustomData": {
-                    "Status": "S",
-                    "StatusDesc": "Success",
-                    "AvailableLimit": "7360997.000000",
-                    "SanctionLimit": "10000000.0000",
-                    "CycleDate": "09",
-                    "PayrollDate": "27",
-                    "PayrollAcct": "020601057599501",
-                    "ExpiryDate": "17-11-2025",
-                    "ColStatusCode": "001",
-                    "ColStatusDesc": "LANCAR",
-                    "Acct_cls_flg": "N"
-                }
-            }
-        }
-    },
-    "error": {}
+                              }
 }
