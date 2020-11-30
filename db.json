@@ -1,6 +1,5 @@
 {
    
-      
                               "customer_id": "CUS_001101217288_00000001",
                                "oda_account": "ODA_123123123_081597",
                               "url_callback_result": "url.callback.result/partner",
@@ -17,5 +16,5 @@
                                 "subdistrict": 1213,
                                 "rt": 1,
                                 "rw": 2
-                              
+                             
 }
