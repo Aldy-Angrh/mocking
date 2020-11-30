@@ -2,16 +2,24 @@
     "body": {
         "Header": {
             "ResponseHeader": {
-                "RequestMessageKey": {
-                    "GlobalUUID": "",
-                    "RequestUUID": "fdc3100b-066c-46a5-ad8c-59b1660b90b7",
-                    "ServiceRequestId": "LOCLimitInq",
-                    "ServiceId": "LOCLimitInq",
-                    "ServiceRequestVersion": "11.7",
-                    "ServiceVersion": "11.7",
-                    "ChannelId": "COR",
-                    "OriginatorId": "COR"
-                },
+      
+                              "customer_id": "CUS_001101217288_00000001",
+                               "oda_account": "ODA_123123123_081597"
+                              "url_callback_result": "url.callback.result/partner",
+                              "nik": 1234567890123456,
+                              "marital_status": "Menikah",
+                              "last_education": "SMA",
+                              "ktp_image": "string",
+                              "address": {
+                                "full_address": "jl. jendral soedriman",
+                                "phone": 36575053,
+                                "province": 1234,
+                                "city": 7890,
+                                "district": 1011,
+                                "subdistrict": 1213,
+                                "rt": 1,
+                                "rw": 2
+                              },
                 "ResponseMessageInfo": {
                     "BankId": "01",
                     "TimeZone": "GMT+05:30",
