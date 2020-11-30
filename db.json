@@ -16,5 +16,16 @@
                                 "subdistrict": 1213,
                                 "rt": 1,
                                 "rw": 2
-      }                       
+      },
+      
+  "domicile": {
+    "full_address": "jl. jendral soedriman",
+    "phone": 36575053,
+    "province": 1234,
+    "city": 7890,
+    "district": 1011,
+    "subdistrict": 1213,
+    "rt": 1,
+    "rw": 2
+  }
 }
