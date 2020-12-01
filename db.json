@@ -4,18 +4,10 @@
     "oda_Account": "ODA_9999",
     "url_callback_result": "url.callback.result/partner",
     "nik": 1234567890123456,
-    "marital_status": "Menikah",
-    "last_education": "SMA",
-    "ktp_image": "string",
     "address": {
       "full_address": "jl. jendral soedriman",
       "phone": 36575053,
       "province": 1234,
-      "city": 7890,
-      "district": 1011,
-      "subdistrict": 1213,
-      "rt": 1,
-      "rw": 2
     }
     },
     "domicile": {
@@ -30,36 +22,4 @@
     },
     "residence_status": "Milik Sendiri",
     "stay_period": "< 1 tahun",
-    "credit_card": [
-      [
-        {
-          "bankName": "BNI"
-        }
-      ]
-    ],
-    "atm_card": {
-      "card_number": 1234,
-      "exp_date": "12/24"
-    },
-    "npwp": {
-      "npwp_number": 1234567890,
-      "npwp_image": "string"
-    },
-    "family": {
-      "mother_maiden_name": "cristal maiden",
-      "number_of_dependents": 3,
-      "family_full_name": "Hayabusa",
-      "relation": "saudara kandung",
-      "phone": "08005125125",
-      "address": "black forrest",
-      "postal_code": 40012
-    },
-    "job_detail": {
-      "income_source": "gaji",
-      "salary": 100000000,
-      "total_month_spending": 1000000,
-      "type_of_work": "karyawan swasta",
-      "start_working": "12-24-2009",
-      "end_working": "12-24-9999"
-    }
   }
