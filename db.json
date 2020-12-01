@@ -4,10 +4,18 @@
     "oda_Account": "ODA_9999",
     "url_callback_result": "url.callback.result/partner",
     "nik": 1234567890123456,
+    "marital_status": "Menikah",
+    "last_education": "SMA",
+    "ktp_image": "string",
     "address": {
       "full_address": "jl. jendral soedriman",
       "phone": 36575053,
       "province": 1234,
+      "city": 7890,
+      "district": 1011,
+      "subdistrict": 1213,
+      "rt": 1,
+      "rw": 2
     }
     },
     "domicile": {
@@ -20,6 +28,10 @@
       "rt": 1,
       "rw": 2
     },
-    "residence_status": "Milik Sendiri",
-    "stay_period": "< 1 tahun",
+    "npwp": {
+      "npwp_number": 1234567890,
+      "npwp_image": "string"
+    }
+  
+ 
   }
